@@ -1,9 +1,9 @@
-# 🤖 QUBIT — The Desk Robot
+# Qubit - The Desk Robot
 
-> **Machines, memes, and magic.** Qubit is a dual-arm desktop robot powered by a Raspberry Pi, expressive LED eyes, and fully open-source Python control software. Built to demo, stream, and inspire.
+> Qubit is a dual-arm desktop robot powered by a Raspberry Pi, expressive LED eyes, and fully open-source Python control software. Built to demo, stream, and inspire.
 
 <p align="center">
-  <img src="docs/qubit-banner.png" alt="Qubit Desk Robot" width="100%" />
+  <img src="assets/thumbnail.JPG" alt="Qubit Desk Robot" width="100%" />
 </p>
 
 ---
