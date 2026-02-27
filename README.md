@@ -227,8 +227,8 @@ Find your serial ports: `ls /dev/ttyUSB*` — plug/unplug each arm to map them.
 
 | script | description | usage |
 |---|---|---|
-| `run_arm.py` | manual servo control via keyboard or gamepad | `--arm left` |
-| `teleop.py` | mirror leader arm → follower arm | — |
+| `robot_control.py` | main robot control dashboard | `--arm left` |
+| `led_matrix_control.py` | push emotes/animations to LED matrix | — |
 | `record_demo.py` | record arm movement sequence to JSON | `--arm left --output demos/wave.json` |
 | `play_demo.py` | replay a recorded sequence | `--file demos/wave.json` |
 | `calibrate.py` | interactive servo calibration wizard | `--arm left` |
